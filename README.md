@@ -2,9 +2,9 @@
 
 This is a repository that contains all the scripts for FLIR Blackfly cameras.
 
-### Usage
+## Usage
 
-#### Environment Set Up
+### Environment Set Up
 All codes are implemented in **Python3** and use APIs for **Ubuntu Linux 16.04**.
 
 First of all, you should install **Python3** and **pip**.
